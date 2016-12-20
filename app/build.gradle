@@ -18,6 +18,9 @@ android {
         }
     }
 
+    // TASK (2.1) Enable Data Binding in your application
+    dataBinding.enabled = true;
+
 }
 
 dependencies {
